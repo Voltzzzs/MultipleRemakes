@@ -90,7 +90,6 @@ function comparing(){
 function end (){
     document.querySelector(".end").style.display = "flex"
     document.querySelector(".qwe").style.display = "none"
-    document.querySelector("#sequencebob").play()
 }
 
 document.querySelector(".end").addEventListener("click",()=>{
