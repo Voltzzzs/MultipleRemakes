@@ -1,4 +1,11 @@
 
+document.querySelector(".return").addEventListener("click",()=>{
+     pag1.style.display = "flex"
+    document.querySelector(".sequencePage").style.display = "none"
+})
+
+
+
 function starting (){
     gaming()
     document.querySelector(".startsq").removeEventListener("click",starting)
