@@ -32,7 +32,7 @@ body{
     
 }
 
-#return{
+.return{
     color: black;
     text-decoration: none;
     cursor: pointer;
@@ -54,11 +54,11 @@ body{
     transition: 150ms;
 }
 
-#return:hover{
+.return:hover{
     transform: scale(0.9);
 }
 
-#return:active{
+.return:active{
     transform: scale(1.1);
 }
 
