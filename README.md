@@ -14,3 +14,5 @@ Restart Feature: The "Restart" button allows the player to reset the game after 
 
 Audio Effects: Sound effects (bop and wrong) are triggered during gameplay to enhance the user experience.
 
+
+Simon Game on Wikipedia: https://en.wikipedia.org/wiki/Simon_(game)
